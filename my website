@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Restaurant</title>
+<style>
+    body { font-family: Arial; text-align: center; background: #fff8f0; }
+    header { background: #e63946; color: white; padding: 10px; }
+    .item { background: #f1faee; margin: 10px; padding: 10px; }
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>My Restaurant</h1>
+</header>
+
+<h2>Menu</h2>
+
+<div class="item">Pizza - $10</div>
+<div class="item">Burger - $8</div>
+
+</body>
+</html>
